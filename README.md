@@ -38,7 +38,7 @@ PHP版本演示地址
 
 开源版本免费使用，系统采用JAVA语言开发，会java的技术人员可以自行二次开发
 
-如需要最新完整商业版本  请联系   飞机 Telegram：@xxpaypro  
+如需要最新完整商业版本  请联系   土豆(Potato) 飞机(Telegram)：@xxpaypro
 
 
 ## 截图
